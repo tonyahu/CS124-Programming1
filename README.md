@@ -1,2 +1,2 @@
-# CS124-Assignment1
-CS124-Assignment1
+# CS124-Programming1
+CS124-Programming1
